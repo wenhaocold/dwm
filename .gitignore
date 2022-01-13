@@ -1,4 +1,4 @@
 *.o
 *.diff
 dwm
-
+*.orig
